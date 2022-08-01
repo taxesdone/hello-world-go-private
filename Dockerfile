@@ -1,4 +1,4 @@
 FROM quay.io/practicalopenshift/hello-world
 
-ENV MESSAGE "Hello from the number 1 private image registry"
+ENV MESSAGE "Hello from the tag 2.0 private image registry"
 
